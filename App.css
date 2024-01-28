@@ -1,0 +1,43 @@
+
+.content{
+  display:flex;  
+    width:100%;
+}
+.sidebar{
+    min-height:500px;
+}
+.post-card{
+  min-width:30rem; 
+   margin: 20px;
+}
+.tag{
+  margin:0px 3px;
+}
+.reactions{
+  width:100%;
+  margin-top:15px;
+}
+.create-post{
+  width:80%;
+  margin-left:5%;
+  margin-top:50px;
+}
+.center{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  margin:80px 50px;
+}
+.welcome-message{
+
+ margin:20px 250px;
+ width:100%;
+ text-align:center;
+}
+
+.spinner{
+  margin-left:40vw;
+  margin-top:30vh;
+}
